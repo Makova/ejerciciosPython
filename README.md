@@ -1,4 +1,4 @@
-ejerciciosPython
-================
+Ejercicios Python
+=================
 
-Es una prueba con los ejercicios de Python del curso.
+*Ejercicios para el curso básico de Python.*
