@@ -4,7 +4,7 @@
 edad = int(input("¿Cuántos años tienes?"))
 if edad >= 18:
 	print ("Eres mayor de edad")
-elif edad >= 17:
+elif edad <= 17:
 	print("Eres menor de edad")
 elif edad <= 0:
 	print("No se puede tener una edad negativa")
