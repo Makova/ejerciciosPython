@@ -23,6 +23,6 @@
 #  
 
 edad = int(input("¿Cuántos años tiene? "))
-if edad >= 120:
-    print("¡Mentiroso!")
+if edad >= 110:
+    print("¡Eso no es cierto!")
 print"Usted dice que tiene", edad, "años."

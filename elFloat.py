@@ -24,4 +24,6 @@
 
 
 peso = float(input("Dígame su peso en Kg: "))
-print"Su peso es", peso, "Kg"
+altura = float(input("Dígame su altura en cm: "))
+print'''Su peso es "¡¡Oh que pedazo peso"!!''', peso, "Kg"
+print"Su altura es", altura, "cm"
